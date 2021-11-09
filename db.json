@@ -1,27 +1,28 @@
 {
-    "products": [{
-            "id": 1,
-            "name": "computer",
-            "price": 600,
-            "quatity": 300,
-            "selected": true,
-            "available": true
-        },
-        {
-            "id": 2,
-            "name": "telephone",
-            "price": 2300,
-            "quatity": 100,
-            "selected": false,
-            "available": true
-        },
-        {
-            "id": 3,
-            "name": "Tv",
-            "price": 1400,
-            "quatity": 800,
-            "selected": false,
-            "available": false
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 600,
+      "quantity": 300,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "telephone",
+      "price": 2300,
+      "quantity": 100,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "souris",
+      "price": 100,
+      "quantity": "1230",
+      "selected": true,
+      "available": true
+    }
+  ]
 }
