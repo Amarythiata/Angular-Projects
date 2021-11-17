@@ -13,16 +13,16 @@
       "name": "telephone",
       "price": 2300,
       "quantity": 100,
-      "selected": false,
+      "selected": true,
       "available": true
     },
     {
-      "id": 3,
-      "name": "souris",
-      "price": 100,
-      "quantity": "1230",
+      "name": "Stylo",
+      "price": "10",
+      "quatity": "110",
       "selected": true,
-      "available": true
+      "available": false,
+      "id": 3
     }
   ]
 }
