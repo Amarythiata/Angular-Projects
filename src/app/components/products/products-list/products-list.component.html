@@ -15,7 +15,7 @@
                     <th>select</th>
                     <th>delete</th>
                 </tr>
-                <app-products-item [productInput]="p" (itemEventEmitter)="onActionEvent($event)" *ngFor="let p of result.data" style="display: contents;">
+                <app-products-item [productInput]="p" *ngFor="let p of result.data" style="display: contents;">
 
                 </app-products-item>
 

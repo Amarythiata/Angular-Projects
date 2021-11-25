@@ -13,16 +13,24 @@
       "name": "telephone",
       "price": 2300,
       "quantity": 100,
-      "selected": true,
+      "selected": false,
       "available": true
     },
     {
-      "name": "Stylo",
-      "price": "10",
-      "quatity": "110",
+      "name": "Amary",
+      "price": "110",
+      "quatity": "111110",
+      "selected": true,
+      "available": true,
+      "id": 3
+    },
+    {
+      "name": "saaaa",
+      "price": "011",
+      "quatity": "0222",
       "selected": true,
       "available": false,
-      "id": 3
+      "id": 4
     }
   ]
 }
