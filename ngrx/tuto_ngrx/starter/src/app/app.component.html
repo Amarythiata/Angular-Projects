@@ -1,0 +1,10 @@
+<div class="container">
+  <h1>Starter ngrx</h1>
+
+  <button class="btn btn-primary" (click)="changeUsername()">
+    Change username
+  </button>
+
+  <h4>Username: {{ (user | async).username }}</h4>
+  <h4>isAdmin: {{ (user | async).isAdmin }} </h4>
+</div>
